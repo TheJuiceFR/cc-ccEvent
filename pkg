@@ -1,0 +1,8 @@
+package = {
+	version="1.0.0",
+	description="ComputerCraft event handler",
+	provides={"/lib/ccEvent.lua"},
+	depends={},
+	optDepends={},
+}
+return package
