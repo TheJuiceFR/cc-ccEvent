@@ -1,7 +1,7 @@
 {
-	version="1.1.0",
+	version="2.0.0",
 	description="ComputerCraft event handler",
-	provides={"/lib/ccEvent.lua"},
+	provides={"/startup/ccEvent.lua"},
 	depends={},
 	optDepends={},
 }
